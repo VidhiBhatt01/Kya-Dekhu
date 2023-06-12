@@ -14,7 +14,6 @@ A simple chrome extension that suggests you a drama/series to binge watch that i
 - Chinese Dramas & Series
 - Turkish Dramas & Series
 
-<hr>
 ## Contributor guidelines: 🌻
 Want to add your favorite drama/series? Check the guidelines below to check that out!
 
