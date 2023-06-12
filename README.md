@@ -96,7 +96,6 @@ You should navigate to your forked repository, and press the "Compare & pull req
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
 
 <br>
-<br>
 <p align="center">
  © 2023 | ALL RIGHTS RESERVED
 </p>
