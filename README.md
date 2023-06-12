@@ -6,13 +6,23 @@ A simple chrome extension that suggests you a drama/series to binge watch that i
 
 
 ## Inspiration: 💡
+In a world filled with endless choices and an overwhelming number of TV shows and dramas to binge-watch, Vidhi and her friends, found ourselves trapped in a never-ending cycle of indecision. Every time we would spend hours scrolling through platforms, agonizing over which series to watch. The constant dilemma left us longing for a solution that could alleviate our frustration and bring back the joy of discovering new stories.
 
+Driven by my passion for technology and a burning desire to find the perfect show, Vidhi embarked on a mission. Late nights turned into early mornings as she tirelessly worked on a groundbreaking solution that would revolutionize their viewing experience. And thus, the "Kya Dekhu" Chrome extension was born.
 
 
 ## Contains: 📜
 - Korean Dramas & Series
 - Chinese Dramas & Series
 - Turkish Dramas & Series
+
+## Features: 🚀
+- No need of any subscription
+- Complete episodes
+- High Availability
+- English Subtitle support
+
+<hr>
 
 ## Contributor guidelines: 🌻
 Want to add your favorite drama/series? Check the guidelines below to check that out!
@@ -84,5 +94,12 @@ Now, you are ready to make a pull request to the original repository.
 You should navigate to your forked repository, and press the "Compare & pull request" button on the page.
 
 GitHub will alert you that you can merge the two branches because there is no competing code. You should add in a title, a comment, and then press the “Create pull request” button.
+
+<br>
+<br>
+<p align="center">
+ © 2023 | ALL RIGHTS RESERVED
+</p>
+                                                                       
 
 
