@@ -1,7 +1,5 @@
 # Kya Dekhu 👀
 
-A simple chrome extension that suggests you a drama/series to binge watch that is freely and fully available on YouTube!
-
 <img src="https://github.com/VidhiBhatt01/Kya-Dekhu/blob/main/Resources/Kya%20Dekhu%20Landscape%20Logo.png ">
 
 
