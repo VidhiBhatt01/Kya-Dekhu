@@ -4,9 +4,7 @@
 
 
 ## Inspiration: 💡
-In a world filled with endless choices and an overwhelming number of TV shows and dramas to binge-watch, Vidhi and her friends, found ourselves trapped in a never-ending cycle of indecision. Every time we would spend hours scrolling through platforms, agonizing over which series to watch. The constant dilemma left us longing for a solution that could alleviate our frustration and bring back the joy of discovering new stories.
-
-Driven by my passion for technology and a burning desire to find the perfect show, Vidhi embarked on a mission. Late nights turned into early mornings as she tirelessly worked on a groundbreaking solution that would revolutionize their viewing experience. And thus, the "Kya Dekhu" Chrome extension was born.
+In a world filled with endless choices and an overwhelming number of TV shows and dramas to binge-watch, I (Vidhi) and my friends, found ourselves trapped in a never-ending cycle of indecision. Every time we would spend hours scrolling through platforms, agonizing over which series to watch. The constant dilemma left us longing for a solution that could alleviate our frustration and bring back the joy of discovering new stories. Driven by my passion for technology and a burning desire to find the perfect show, I decided to work on a solution that would revolutionize our viewing experience. And thus, the "Kya Dekhu" Chrome extension was born.
 
 
 ## Contains: 📜
